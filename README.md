@@ -1,26 +1,44 @@
 # Control the TV with hand poses
-
+<!-- 
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
 
-"hoge"が何かを簡潔に紹介する
+"hoge"が何かを簡潔に紹介する -->
+
+You can switch TV channels with the numbers that your hands represent.
 
 # DEMO
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+<!-- "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる -->
 
 ![control_tv_hand](https://user-images.githubusercontent.com/74942763/147632624-ebf9ee29-1c4f-4200-930e-126ba3d0dba8.gif)
 
-- [Control the_TV with_hand poses - Youtube](https://youtu.be/5AszRBZT78Q)
+[Click here for youtube video](https://youtu.be/5AszRBZT78Q)
 
 # Features
 
-"hoge"のセールスポイントや差別化などを説明する
+<!-- "hoge"のセールスポイントや差別化などを説明する -->
+
+You don't need a remote control.
+
+You can experience the pose estimation AI.
 
 # Requirement
 
-"hoge"を動かすのに必要なライブラリなどを列挙する
+<!-- "hoge"を動かすのに必要なライブラリなどを列挙する
 
 * huga 3.5.2
-* hogehuga 1.0.2
+* hogehuga 1.0.2 -->
+
+## Hardware
+* Jetson Nano
+* Raspberry Pi Zero WH
+* webcam
+* Infrared LED
+* Infrared receiver module
+
+## Software
+* Python3
+* MediaPipe
+
 
 # Installation
 
