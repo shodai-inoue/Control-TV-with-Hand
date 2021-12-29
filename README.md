@@ -1,4 +1,4 @@
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# Control the TV with hand poses
 
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
 
