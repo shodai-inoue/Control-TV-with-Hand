@@ -6,7 +6,7 @@
 
 You can switch TV channels with the numbers that your hands represent.
 
-# DEMO
+<!-- # DEMO -->
 <!-- "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる -->
 
 ![control_tv_hand](https://user-images.githubusercontent.com/74942763/147632624-ebf9ee29-1c4f-4200-930e-126ba3d0dba8.gif)
