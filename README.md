@@ -9,6 +9,8 @@
 
 ![control_tv_hand](https://user-images.githubusercontent.com/74942763/147632624-ebf9ee29-1c4f-4200-930e-126ba3d0dba8.gif)
 
+- [Control the_TV with_hand poses - Youtube](https://youtu.be/5AszRBZT78Q)
+
 # Features
 
 "hoge"のセールスポイントや差別化などを説明する
