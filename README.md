@@ -5,9 +5,8 @@
 "hoge"が何かを簡潔に紹介する
 
 # DEMO
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5AszRBZT78Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+
 ![control_tv_hand](https://user-images.githubusercontent.com/74942763/147632624-ebf9ee29-1c4f-4200-930e-126ba3d0dba8.gif)
 
 # Features
